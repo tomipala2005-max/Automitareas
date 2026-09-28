@@ -1,0 +1,8 @@
+Acá van las fotos de fondo del sitio:
+
+  trama.webp     fondo de la portada
+  placa.webp     fondo de la franja "Menos trabajo manual..."
+  pantalla.webp  fondo de la sección de contacto
+
+Para traer las que estaban en la versión anterior, corré desde la carpeta
+del sitio:  python3 extraer-fotos.py
